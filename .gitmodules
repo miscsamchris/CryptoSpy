@@ -1,0 +1,3 @@
+[submodule "cryptospy-js-client"]
+	path = cryptospy-js-client
+	url = https://github.com/PawanAK/cryptospy-js-client.git
