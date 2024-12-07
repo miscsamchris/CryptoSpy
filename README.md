@@ -11,7 +11,7 @@ A real-time voice assistant that provides cryptocurrency price information throu
 - Support for multiple participants (up to 100)
 - Secure communication with end-to-end encryption
 ```
-
+ 
 ## Prerequisites
 
 ```
