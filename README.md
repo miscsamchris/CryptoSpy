@@ -12,7 +12,7 @@ A real-time voice assistant that provides cryptocurrency price information throu
  
 ## Prerequisites
 
-- Python 3.7+
+- Python 3.12+
 - Huddle01 API Key
 - Huddle01 Project ID
 - OpenAI API Key
@@ -20,12 +20,12 @@ A real-time voice assistant that provides cryptocurrency price information throu
 ## Environment Variables
 
 Create a `.env` file in the root directory with the following variables:
-
+```
 HUDDLE_API_KEY=your_huddle_api_key
 HUDDLE_PROJECT_ID=your_huddle_project_id
 OPENAI_API_KEY=your_openai_api_key
 ROOM_ID=your_room_id 
-
+```
 ## Installation
 
 1. Clone the repository:
@@ -36,7 +36,7 @@ cd cryptospy
 
 2. Install dependencies:
 ```
-pip install -r requirements.txt
+pip install -r PythonApp/requirements.txt
 ```
 
 ## Usage
